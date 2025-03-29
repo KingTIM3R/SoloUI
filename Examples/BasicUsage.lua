@@ -8,7 +8,7 @@
 ]]
 
 -- Load the SoloUI library from local file
-https://raw.githubusercontent.com/KingTIM3R/SoloUI/refs/heads/main/SoloUI.lua
+loadstring(game:HttpGet('https://raw.githubusercontent.com/KingTIM3R/SoloUI/refs/heads/main/SoloUI.lua'))()
 
 -- Initialize the library
 SoloUI:Init()
