@@ -17,7 +17,7 @@ A sleek, modern UI library for Roblox exploits featuring a Solo Leveling inspire
 Add this to your script:
 
 ```lua
-local SoloUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/yourusername/SoloUI/main/SoloUI.lua"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/KingTIM3R/SoloUI/refs/heads/main/SoloUI.lua'))()
 ```
 
 ## Basic Usage
