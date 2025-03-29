@@ -8,7 +8,7 @@
 ]]
 
 -- Load the SoloUI library from local file
-local SoloUI = loadfile("SoloUI.lua")()
+local SoloUI = loadstring(game:HttpGet('https://raw.githubusercontent.com/KingTIM3R/SoloUI/refs/heads/main/SoloUI.luahttps://sirius.menu/rayfield'))()
 
 -- Initialize the library
 SoloUI:Init()
